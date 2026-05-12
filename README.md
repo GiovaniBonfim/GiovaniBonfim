@@ -20,7 +20,7 @@ Como Programador de Sistemas de Informação, atuo na construção de sistemas i
 
 Trabalho diariamente com as seguintes tecnologias para construir as soluções da empresa:
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,mysql,git,docker,linux" alt="Minhas Skills" />
   </a>
