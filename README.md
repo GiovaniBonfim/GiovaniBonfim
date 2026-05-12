@@ -1,10 +1,6 @@
 <div align="center">
   <h2>Olá! Eu sou o Giovani Bonfim 🏢</h2>
   
-  <!-- Efeito de digitação com cores mais sóbrias (Azul corporativo) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Programador+de+Sistemas;Foco+em+Soluções+Corporativas" alt="Typing SVG" />
-</div>
-
 ---
 
 ### 👨‍💻 Sobre o meu perfil corporativo
@@ -55,9 +51,6 @@ Trabalho diariamente com as seguintes tecnologias para construir as soluções d
   </a>
   <br />
   <br />
-  <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
-    <img src="./powered-by-vercel.svg"/>
-  </a>
 </p>
 
 <picture align="center">
