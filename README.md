@@ -62,7 +62,7 @@ Trabalho diariamente com as seguintes tecnologias para construir as soluções d
 
 ### 📫 Contato Profissional
 
-<a href="https://www.linkedin.com/in/bonfim7-6a71b6354/" target="_blank">
+<a href="https://www.linkedin.com/in/giovani-bonfim-6a71b6354/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:giovani.mini5@gmail.com" target="_blank">
