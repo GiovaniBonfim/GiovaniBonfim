@@ -36,10 +36,10 @@ Trabalho diariamente com as seguintes tecnologias para construir as soluções d
 
 <div align="center">
   <a href="https://github.com/Bonfim7">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bonfim7&show_icons=true&theme=default&hide_border=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GiovaniBonfim&show_icons=true&theme=default&hide_border=true&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
   </a>
   <a href="https://github.com/Bonfim7">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonfim7&layout=compact&theme=default&hide_border=true" height="150" alt="Linguagens mais usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniBonfim&layout=compact&theme=default&hide_border=true" height="150" alt="Linguagens mais usadas" />
   </a>
 </div>
 
